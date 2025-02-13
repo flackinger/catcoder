@@ -1,0 +1,7 @@
+C:\Users\franz\OneDrive - Schulzentrum Ungargasse HTL\Desktop\CatCoder\AuctionBiddingC\AuctionBidding\bin\Debug\AuctionBidding.exe.config
+C:\Users\franz\OneDrive - Schulzentrum Ungargasse HTL\Desktop\CatCoder\AuctionBiddingC\AuctionBidding\bin\Debug\AuctionBidding.exe
+C:\Users\franz\OneDrive - Schulzentrum Ungargasse HTL\Desktop\CatCoder\AuctionBiddingC\AuctionBidding\bin\Debug\AuctionBidding.pdb
+C:\Users\franz\OneDrive - Schulzentrum Ungargasse HTL\Desktop\CatCoder\AuctionBiddingC\AuctionBidding\obj\Debug\AuctionBidding.csproj.AssemblyReference.cache
+C:\Users\franz\OneDrive - Schulzentrum Ungargasse HTL\Desktop\CatCoder\AuctionBiddingC\AuctionBidding\obj\Debug\AuctionBidding.csproj.CoreCompileInputs.cache
+C:\Users\franz\OneDrive - Schulzentrum Ungargasse HTL\Desktop\CatCoder\AuctionBiddingC\AuctionBidding\obj\Debug\AuctionBidding.exe
+C:\Users\franz\OneDrive - Schulzentrum Ungargasse HTL\Desktop\CatCoder\AuctionBiddingC\AuctionBidding\obj\Debug\AuctionBidding.pdb
